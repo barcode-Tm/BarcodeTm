@@ -8,7 +8,6 @@
 اگر این پروژه برای شما مفید بوده،  
 می‌توانید از طریق لینک زیر کمک کنید:
 
-👉 [حمایت از پروژه در NowPayments](https://nowpayments.io/donation/permiumbotmirza)
 
 ---
 
